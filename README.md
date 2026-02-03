@@ -1,28 +1,28 @@
-<h1 align="center">Hi there! I'm Jesús 👋</h1>
-<h3 align="center">💻 Aspiring Full-Stack Developer | DAW Student | Passionate about Web & Software Development</h3>
+<h1 align="center">¡Hola! Soy Jesús 👋</h1>
+<h3 align="center">💻 Desarrollador Full-Stack en formación | Estudiante de DAW | Apasionado por el desarrollo web y software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-garcia-blazquezz&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-garcia-blazquezz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jesusgarblaq" target="blank"><img src="https://img.shields.io/twitter/follow/jesusgarblaq?logo=twitter&style=for-the-badge" alt="jesusgarblaq" /></a> </p>
 
-- 🔭 I’m currently working on **Developing web projects using HTML, CSS, JavaScript, PHP, and SQL; exploring Docker containerization and full-stack solutions.**
+- 🔭 Actualmente trabajo en **desarrollo de proyectos web con HTML, CSS, JavaScript, PHP y SQL; explorando contenedores Docker y soluciones full-stack.**
 
-- 🌱 I’m currently learning **Kotlin, modern frontend frameworks, API integration, and advanced Python development.**
+- 🌱 Actualmente estoy aprendiendo **Kotlin, frameworks frontend modernos, integración de APIs y desarrollo avanzado en Python.**
 
-- 👯 I’m looking to collaborate on **Open-source web development projects, learning-oriented team projects, and innovative software solutions.**
+- 👯 Busco colaborar en **proyectos de desarrollo web open-source, proyectos en equipo orientados al aprendizaje y soluciones de software innovadoras.**
 
-- 🤝 I’m looking for help with **Advanced Java frameworks, cloud deployment strategies, and optimizing database management across Oracle, MySQL, and MariaDB.**
+- 🤝 Busco apoyo en **frameworks avanzados de Java, estrategias de despliegue en la nube y optimización de gestión de bases de datos en Oracle, MySQL y MariaDB.**
 
-- 👨‍💻 All of my projects are available at [https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/](https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/](https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/)
 
-- 💬 Ask me about **Web development, databases, Java, Python, or best practices in building scalable applications.**
+- 💬 Pregúntame sobre **desarrollo web, bases de datos, Java, Python o buenas prácticas para construir aplicaciones escalables.**
 
-- 📫 How to reach me **jessugabla@gmail.com**
+- 📫 Contáctame en **jessugabla@gmail.com**
 
-- 📄 Know about my experiences
-Completed SMR and currently finishing DAW2; certified in Java, Python, Bootstrap5, Docker fundamentals, and internship onboarding.
+- 📄 Experiencia y estudios:  
+Completé SMR y actualmente finalizo DAW2; certificado en Java, Python, Bootstrap5, fundamentos de Docker y onboarding en prácticas.
 
-- ⚡ Fun fact **I enjoy turning complex problems into simple, efficient solutions—and I’m always exploring new ways to optimize user experiences.**
+- ⚡ Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
