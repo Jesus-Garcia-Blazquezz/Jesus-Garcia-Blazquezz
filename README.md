@@ -20,7 +20,9 @@
 - 📫 Contáctame en **jessugabla@gmail.com**
 
 - 📄 Experiencia y estudios:  
-Completé SMR y actualmente finalizo DAW2; certificado en Java, Python, Bootstrap5, fundamentos de Docker y onboarding en prácticas.
+Completé SMR y actualmente finalizo DAW2.  
+Certificado en Java, Python, Bootstrap5 y fundamentos de Docker.  
+Realicé prácticas de 3 meses en el Colegio Santo Tomás y 4 meses en la empresa ReactID (Madrid), donde adquirí experiencia en desarrollo web y software.
 
 - ⚡ Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
 
