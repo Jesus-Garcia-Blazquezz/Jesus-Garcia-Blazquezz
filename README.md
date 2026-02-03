@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **jessugabla@gmail.com**
 
-- 📄 Know about my experiences [Completed SMR and currently finishing DAW2; certified in Java, Python, Bootstrap5, Docker fundamentals, and internship onboarding.](Completed SMR and currently finishing DAW2; certified in Java, Python, Bootstrap5, Docker fundamentals, and internship onboarding.)
+- 📄 Know about my experiences
+Completed SMR and currently finishing DAW2; certified in Java, Python, Bootstrap5, Docker fundamentals, and internship onboarding.
 
 - ⚡ Fun fact **I enjoy turning complex problems into simple, efficient solutions—and I’m always exploring new ways to optimize user experiences.**
 
