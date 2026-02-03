@@ -11,7 +11,7 @@
 
 - 👯 Busco colaborar en **proyectos de desarrollo web open-source, proyectos en equipo orientados al aprendizaje y soluciones de software innovadoras.**
 
-- 🛠️ Interesado en frameworks avanzados, despliegue en la nube y optimización de bases de datos en Oracle, MySQL y MariaDB.
+- ⚙️ Interesado en frameworks avanzados, despliegue en la nube y optimización de bases de datos en Oracle, MySQL y MariaDB.
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/](https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/)
 
@@ -24,7 +24,7 @@ Completé SMR y actualmente finalizo DAW2.
 Certificado en Java, Python, Bootstrap5 y fundamentos de Docker.  
 Realicé prácticas de 3 meses en el Colegio IES Santo Tomás y 4 meses en la empresa ReactID (Madrid), donde adquirí experiencia en desarrollo web y software.
 
-- ⚡ Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
+- 🚀 Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
