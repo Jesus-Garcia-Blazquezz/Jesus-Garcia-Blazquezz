@@ -7,11 +7,11 @@
 
 - 🔭 Actualmente trabajo en **desarrollo de proyectos web con HTML, CSS, JavaScript, PHP y SQL; explorando contenedores Docker y soluciones full-stack.**
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin, frameworks frontend modernos, integración de APIs y desarrollo avanzado en Python.**
+- 🌱 Actualmente estoy aprendiendo **Kotlin, frameworks frontend y backend modernos, integración de APIs y desarrollo avanzado en Python.**
 
 - 👯 Busco colaborar en **proyectos de desarrollo web open-source, proyectos en equipo orientados al aprendizaje y soluciones de software innovadoras.**
 
-- 🤝 Busco apoyo en **frameworks avanzados de Java, estrategias de despliegue en la nube y optimización de gestión de bases de datos en Oracle, MySQL y MariaDB.**
+- 🤝 Busco apoyo en **frameworks avanzados, estrategias de despliegue en la nube y optimización de gestión de bases de datos en Oracle, MySQL y MariaDB.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/](https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/)
 
