@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajo en **desarrollo de proyectos web con HTML, CSS, JavaScript, PHP y SQL; explorando contenedores Docker y soluciones full-stack.**
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin, frameworks frontend y backend modernos, integración de APIs**
+- 🌱 Actualmente estoy aprendiendo **Kotlin, frameworks frontend y backend modernos y integración de APIs**
 
 - 👯 Busco colaborar en **proyectos de desarrollo web open-source, proyectos en equipo orientados al aprendizaje y soluciones de software innovadoras.**
 
