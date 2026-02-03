@@ -11,7 +11,7 @@
 
 - 👯 Busco colaborar en **proyectos de desarrollo web open-source, proyectos en equipo orientados al aprendizaje y soluciones de software innovadoras.**
 
-- 🤝 Busco apoyo en **frameworks avanzados, estrategias de despliegue en la nube y optimización de gestión de bases de datos en Oracle, MySQL y MariaDB.**
+- 🛠️ Interesado en frameworks avanzados, despliegue en la nube y optimización de bases de datos en Oracle, MySQL y MariaDB.
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/](https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/)
 
