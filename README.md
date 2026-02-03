@@ -27,7 +27,7 @@ Completed SMR and currently finishing DAW2; certified in Java, Python, Bootstrap
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jesusgarblaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesusgarblaq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jesús garcía blázquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús garcía blázquez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-garc%C3%ADa-bl%C3%A1zquez-6953b839a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús garcía blázquez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
