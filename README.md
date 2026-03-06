@@ -26,34 +26,22 @@ Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses
 
 ### 🚀 Proyectos Destacados
 
-- **Operaciones Aritméticas**  
-  Resultados y estadísticas de operaciones matemáticas, con análisis de datos y presentación clara.  
-   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#### Operaciones Aritméticas
+Resultados y estadísticas de operaciones matemáticas, con análisis de datos y presentación clara.  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- **Aplicación de Seguridad de Windows**  
-  Detecta encendido y apagado de Windows 11, registra fecha y hora y controla acceso mediante credenciales privadas del usuario.   
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### Aplicación de Seguridad de Windows
+Detecta encendido y apagado de Windows 11, registra fecha y hora y controla acceso mediante credenciales privadas del usuario.  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- **FruttiFresh – CRUD PHP/MySQL**  
-  Gestión de clientes y productos de una frutería online, con distribución de productos de proximidad por toda España.  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### FruttiFresh – CRUD PHP/MySQL
+Gestión de clientes y productos de una frutería online, con distribución de productos de proximidad por toda España.  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **FaceFlow – App Biométrica Android**  
-  Captura imágenes desde cámara o galería, realiza liveness activo/pasivo y estima la edad del rostro. Compara dos rostros y verifica coincidencias.  
-  Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) y bidireccional, enviando resultados de liveness y comparaciones faciales de manera segura y sincronizada.   
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-  
-- 🚀 Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
+#### FaceFlow – App Biométrica Android
+Captura imágenes desde cámara o galería, realiza liveness activo/pasivo y estima la edad del rostro. Compara dos rostros y verifica coincidencias.  
+Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) y bidireccional, enviando resultados de liveness y comparaciones faciales de manera segura y sincronizada.  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -108,6 +96,8 @@ Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses
 <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+
+- 🚀 Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
 
 <hr>
 
