@@ -43,7 +43,7 @@ Gestión de clientes y productos de una frutería online, con distribución de p
 
 #### FaceFlow – App Biométrica Android
 Captura imágenes desde cámara o galería, realiza liveness activo/pasivo y estima la edad del rostro. Compara dos rostros y verifica coincidencias.  
-Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) y bidireccional, enviando resultados de liveness y comparaciones faciales de manera segura y sincronizada.  
+Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) y bidireccional (BDF), enviando resultados de liveness y comparaciones faciales de manera segura y sincronizada.  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
