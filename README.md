@@ -80,4 +80,16 @@ Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
 
+<hr>
+
+<p align="center">
+📫 Contáctame: <a href="mailto:jessugabla@gmail.com">jessugabla@gmail.com</a>  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/jes%C3%BAs-garc%C3%ADa-bl%C3%A1zquez-6953b839a/" target="_blank">Jesús García Blázquez</a>  
+🐦 Twitter: <a href="https://twitter.com/jesusgarblaq" target="_blank">@jesusgarblaq</a>
+</p>
+
+<p align="center">
+Gracias por visitar mi perfil 👋
+</p>
+
 </p>
