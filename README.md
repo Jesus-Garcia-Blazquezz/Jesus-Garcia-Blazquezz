@@ -103,13 +103,9 @@ Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) 
 <hr>
 
 <p align="center">
-📫 Contáctame: <a href="mailto:jessugabla@gmail.com">jessugabla@gmail.com</a>  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/jes%C3%BAs-garc%C3%ADa-bl%C3%A1zquez-6953b839a/" target="_blank">Jesús García Blázquez</a>  
-🐦 Twitter: <a href="https://twitter.com/jesusgarblaq" target="_blank">@jesusgarblaq</a>
+📫 <a href="mailto:jessugabla@gmail.com">Email</a> | 🔗 <a href="https://www.linkedin.com/in/jes%C3%BAs-garc%C3%ADa-blazquez-6953b839a/">LinkedIn</a> | 🐦 <a href="https://twitter.com/jesusgarblaq">Twitter</a> | 💻 <a href="https://jesus-garcia-blazquezz.github.io/mi-portafolio-Jesus/">Portfolio</a>
 </p>
+<p align="center">Gracias por visitar mi perfil 👋</p>
 
-<p align="center">
-Gracias por visitar mi perfil 👋
-</p>
 
 </p>
