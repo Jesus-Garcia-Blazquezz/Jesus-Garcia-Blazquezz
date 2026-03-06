@@ -20,7 +20,7 @@
 - 📫 Contáctame en **jessugabla@gmail.com**
 
 - 📄 Experiencia y estudios:  
-Poseo el titulo de grado medio de SMR (Sistemas microinformaticos y redes) y actualmente finalizo DAW2 (Desarrollo de Aplicaciones Web).  
+Poseo el titulo de grado medio de Sistemas Microinformáticos y Redes (SMR) y actualmente finalizo DAW2 (Desarrollo de Aplicaciones Web).  
 Certificado en Java, Python, Bootstrap5 y fundamentos de Docker.  
 Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses en la empresa ReactID (Madrid), donde adquirí experiencia en desarrollo web y software.
 
