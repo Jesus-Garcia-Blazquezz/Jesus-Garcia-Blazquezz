@@ -1,11 +1,6 @@
 <h1 align="center">¡Hola! Soy Jesús 👋</h1>
 <h3 align="center">💻 Desarrollador Full-Stack Junior | Web & Multiplataforma | Apasionado por el desarrollo web y software</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesus-garcia-blazquezz&show_icons=true&theme=blue" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-garcia-blazquezz&layout=compact&theme=blue" alt="Top Languages"/>
-</p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jesus-garcia-blazquezz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
