@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! Soy Jesús 👋</h1>
 <h3 align="center">💻 Desarrollador Full-Stack Junior | Web & Multiplataforma | Apasionado por el desarrollo web y software</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jesus-garcia-blazquezz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus-garcia-blazquezz&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-garcia-blazquezz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jesusgarblaq" target="blank"><img src="https://img.shields.io/twitter/follow/jesusgarblaq?logo=twitter&style=for-the-badge" alt="jesusgarblaq" /></a> </p>
