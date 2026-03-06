@@ -28,7 +28,8 @@ Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses
 
 - **Operaciones Aritméticas**  
   Resultados y estadísticas de operaciones matemáticas, con análisis de datos y presentación clara.  
-  *(Tecnologías: Python / Java / Análisis de datos)*  
+  *(Tecnologías: Python / Java / Análisis de datos)*
+   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
