@@ -24,6 +24,9 @@ Poseo el titulo de grado medio de Sistemas Microinformáticos y Redes (SMR) y ac
 Certificado en Java, Python, Bootstrap5 y fundamentos de Docker.  
 Realicé prácticas de 3 meses en el Colegio IES Santo Tomás (Ávila) y 4 meses en la empresa ReactID (Madrid), donde adquirí experiencia en desarrollo web y software.
 
+- 🚀 Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
+
+
 ### 🚀 Proyectos Destacados
 
 #### Operaciones Aritméticas
@@ -96,8 +99,6 @@ Integración con la app **VOODOO** mediante flujo de datos unidireccional (UDF) 
 <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-
-- 🚀 Curiosidad: **Disfruto transformando problemas complejos en soluciones simples y eficientes, siempre explorando nuevas formas de optimizar la experiencia del usuario.**
 
 <hr>
 
